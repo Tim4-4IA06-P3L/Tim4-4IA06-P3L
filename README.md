@@ -1,16 +1,16 @@
-## Hi there 👋
+## **Tim 4 Pengelolaan Project Perangkat Lunak (P3L)**
+---
 
-<!--
-**Tim4-4IA06-P3L/Tim4-4IA06-P3L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- William Devin S.P.
+- Indah Mahabbati
+- Rayi Ahmad
+- Maula Afiif N.S.
+- Iftah Maulana
+- Ario Nugroho
 
-Here are some ideas to get you started:
+## **Link Repositories Project**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [M-Knows Company Profile Website](https://github.com/Tim4-4IA06-P3L/MKnows-FrontEnd)
+- [M-Knows Website CMS](https://github.com/Tim4-4IA06-P3L/MC-CMS)
+- [M-Knows Custom Admin Dashboard](https://github.com/Tim4-4IA06-P3L/MKnows-AdminDashboard)
